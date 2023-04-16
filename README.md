@@ -1,9 +1,8 @@
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anish Mulla</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishm079&label=Profile%20views&color=0e75b6&style=flat" alt="anishm079" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishm079" alt="anishm079" /></a> </p>
 
 - 🌱 I’m currently learning **Java backend development**
 
@@ -19,7 +18,7 @@
 <a href="https://instagram.com/anish_079/?igshid=zddkntzintm%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anish_079/?igshid=zddkntzintm%3d" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anishmulla7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anishmulla7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anish079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anish079" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/anishmulla7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="anishmulla7" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@anishmulla7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anishmulla7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
